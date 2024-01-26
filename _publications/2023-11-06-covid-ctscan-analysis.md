@@ -6,8 +6,7 @@ excerpt: 'The COVID-19 pandemic, caused by the SARS-CoV-2 virus, continues to ha
 date: 2023-11-06
 venue: 'Journal 1'
 paperurl: 'https://ieeexplore.ieee.org/document/10309131'
-citation: 'A. Thyagachandran, A. Balachandran and H. A. Murthy, "Identification and Severity Assessment of COVID-19 Using Lung CT Scans," in IEEE Access, vol. 11, pp. 124542-124555, 2023, doi: 10.1109/ACCESS.2023.3330238.
-keywords: {Computed tomography;COVID-19;Lungs;Feature extraction;Image segmentation;Diseases;Pipelines;Semisupervised learning;COVID-19;CT scans;infection segmentation;semi-supervised augmentation;severity assessment}'
+citation: 'A. Thyagachandran, A. Balachandran and H. A. Murthy, "Identification and Severity Assessment of COVID-19 Using Lung CT Scans," in IEEE Access, vol. 11, pp. 124542-124555, 2023, doi: 10.1109/ACCESS.2023.3330238'
 ---
 
 [Download paper here](http://aanandt.github.io/files/Identification_and_Severity_Assessment_of_COVID-19_Using_Lung_CT_Scans.pdf){:target="_blank"}
