@@ -9,4 +9,4 @@ paperurl: 'https://www.isca-archive.org/interspeech_2021/kumar21e_interspeech.ht
 citation: 'Kumar, M.G., Kuriakose, J., Thyagachandran, A., A, A.K., Seth, A., Prasad, L.V.S.V.D., Jaiswal, S., Prakash, A., Murthy, H.A. (2021) Dual Script E2E Framework for Multilingual and Code-Switching ASR. Proc. Interspeech 2021, 2441-2445, doi: 10.21437/Interspeech.2021-978'
 ---
 
-[Download paper here](http://aanandt.github.io/files/Dual_Script_E2E_ Framework_for_Multilingual_and_Code-Switching_ASR.pdf){:target="_blank"}
+[Download paper here](http://aanandt.github.io/files/Dual_Script_E2E_Framework_for_Multilingual_and_Code-Switching_ASR.pdf){:target="_blank"}
