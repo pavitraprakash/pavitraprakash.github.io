@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech in Computer Science and Engineering, CUSAT, 2011
+* M.Tech in Information Technology, Unversity of Hyderabad, 2016
+* Ph.D in Computer Science and Engineering, IIT Madras, 2024 (expected)
 
 Work experience
 ======
@@ -54,6 +54,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Achievements
 ======
 * Currently signed in to 43 different slack teams
