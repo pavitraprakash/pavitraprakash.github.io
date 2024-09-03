@@ -6,7 +6,7 @@ excerpt: 'Computed Tomography (CT) scans provide a high-resolution image of the 
 date: 2023-05-06
 venue: 'IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)'
 paperurl: 'https://ieeexplore.ieee.org/document/10193538'
-pdf:'https://aanandt.github.io/files/Ensemble_Methods_For_Enhanced_Covid-19_CT_Scan_Severity_Analysis.pdf'
+pdf: 'https://aanandt.github.io/files/Ensemble_Methods_For_Enhanced_Covid-19_CT_Scan_Severity_Analysis.pdf'
 citation: 'A. Thyagachandran and H. A. Murthy, "Ensemble Methods For Enhanced Covid-19 CT Scan Severity Analysis," 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSPW59220.2023.10193538'
 ---
 
