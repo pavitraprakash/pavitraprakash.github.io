@@ -26,12 +26,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C, C++, Python
+* Deep Learning Tools: PyTorch, TensorFlow
+* Other Tools/Libraries: MATLAB, Git, Shell Script, Latex
+* Biomedical Data (Imaging and Signals) processing
+* Machine Learning 
 
 Publications
 ======
