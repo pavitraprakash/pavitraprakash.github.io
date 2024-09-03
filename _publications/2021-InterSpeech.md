@@ -6,7 +6,21 @@ excerpt: 'India is home to multiple languages, and training automatic speech rec
 date: 2021-05-06
 venue: 'Proceedings of Interspeech'
 paperurl: 'https://www.isca-archive.org/interspeech_2021/kumar21e_interspeech.html'
+pdf: 'https://aanandt.github.io/files/Dual_Script_E2E_Framework_for_Multilingual_and_Code-Switching_ASR.pdf'
 citation: 'Kumar, M.G., Kuriakose, J., Thyagachandran, A., A, A.K., Seth, A., Prasad, L.V.S.V.D., Jaiswal, S., Prakash, A., Murthy, H.A. (2021) Dual Script E2E Framework for Multilingual and Code-Switching ASR. Proc. Interspeech 2021, 2441-2445, doi: 10.21437/Interspeech.2021-978'
 ---
 
-[Download paper here](http://aanandt.github.io/files/Dual_Script_E2E_Framework_for_Multilingual_and_Code-Switching_ASR.pdf){:target="_blank"}
+[Download paper here](https://aanandt.github.io/files/Dual_Script_E2E_Framework_for_Multilingual_and_Code-Switching_ASR.pdf){:target="_blank"}
+<div> 
+<div id="adobe-dc-view" style="width: 100%;"></div> 
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script> 
+<script type="text/javascript"> 
+document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+var adobeDCView = new AdobeDC.View({clientId: "a9f90938a3af4ae8b97f7768ee680c05", divId: "adobe-dc-view"});
+adobeDCView.previewFile({
+content:{location: {url: "https://aanandt.github.io/files/Dual_Script_E2E_Framework_for_Multilingual_and_Code-Switching_ASR.pdf"}},
+metaData:{fileName: "Dual_Script_E2E_Framework_for_Multilingual_and_Code-Switching_ASR.pdf"}
+}, {embedMode: "IN_LINE"});
+});
+</script>
+</div>
