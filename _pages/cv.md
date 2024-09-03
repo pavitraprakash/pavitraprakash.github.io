@@ -19,7 +19,7 @@ Work experience
 ======
 * \[Jan 2019 - July 2024\] **Half-Time Teaching Assistant** @[Indian Institute of Technology Madras](https://www.iitm.ac.in)
   * Alongside doctoral research, assisted professors at IIT Madras in offering various Graduate and Undergraduate level courses.
-  * <details> <summary>Click to see the full list of courses assisted!</summary><pre> Speech Technology (CS6300) [Jan 2021, Jan 2023] <br> Pattern Recogntion and Machine Learning (CS5691) [Jan 2022, July 2023] <br> Advanced Programming Lab(CS6150) [July 2021, July 2022] <br> Programing and Data Structres (CS2700) [July 2020] <br> Programing and Data Structres Lab (CS2710) [July 2020] <be> Discrete Mathematics (CS1200) [Jan 2020] <br> Artificial Intelligence (CS6380) [Jul 2019] <br> Introduction to Programming (CS1100) [Jan 2019] </pre></details>
+  * <details> <summary>Click to see the full list of courses assisted!</summary><pre> Speech Technology (CS6300) [Jan 2021, Jan 2023] <br> Pattern Recogntion and Machine Learning (CS5691) [Jan 2022, July 2023] <br> Advanced Programming Lab(CS6150) [July 2021, July 2022] <br> Programing and Data Structres (CS2700) [July 2020] <br> Programing and Data Structres Lab (CS2710) [July 2020] <br> Discrete Mathematics (CS1200) [Jan 2020] <br> Artificial Intelligence (CS6380) [Jul 2019] <br> Introduction to Programming (CS1100) [Jan 2019] </pre></details>
 
 * \[May 2016 - Dec 2018\] **Assistant Professor** @[VFSTR University](https://vignan.ac.in/newvignan/)
   * University Teaching: Data Structures, Computer Graphics, and Discrete Mathematics.
