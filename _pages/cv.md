@@ -53,4 +53,11 @@ Teaching
   
 Service and Achievements
 ======
-* Currently signed in to 43 different slack teams
+* Served as reviewer for Biomedical signal processing and control journal.
+* Organised **An Introduction to Neuroscience and EEG Processing (EEG Workshop)**, Jan 08-10, 2024, IIT Madras, India.
+* Organised **Introduction to Computational Musicology, a Carnatic Music perspective (CompMusic workshop)**, Dec 12-16,2022, IIT Madras, India.
+* STAR TA award for outstanding contribution as a Teaching assistant.
+* Participated in the South Zone (India) inter-university badminton championship 2014-2016.
+* Participated in the south zone (Kerala) badminton championship in 2003-2007.
+* Served as sports secretary in undergraduate college.
+  
