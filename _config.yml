@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anand Thyagachandran"
+  #name             : "Anand Thyagachandran"
   avatar           : "anand.jpeg"
   bio              : "PhD Scholar @IIT Madras"
   location         : "Chennai"
