@@ -6,7 +6,21 @@ excerpt: 'Computed Tomography (CT) scans provide a high-resolution image of the 
 date: 2023-05-06
 venue: 'IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)'
 paperurl: 'https://ieeexplore.ieee.org/document/10193538'
+pdf:'https://aanandt.github.io/files/Ensemble_Methods_For_Enhanced_Covid-19_CT_Scan_Severity_Analysis.pdf'
 citation: 'A. Thyagachandran and H. A. Murthy, "Ensemble Methods For Enhanced Covid-19 CT Scan Severity Analysis," 2023 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW), Rhodes Island, Greece, 2023, pp. 1-5, doi: 10.1109/ICASSPW59220.2023.10193538'
 ---
 
-[Download paper here](http://aanandt.github.io/files/Ensemble_Methods_For_Enhanced_Covid-19_CT_Scan_Severity_Analysis.pdf){:target="_blank"}
+[Download paper here](https://aanandt.github.io/files/Ensemble_Methods_For_Enhanced_Covid-19_CT_Scan_Severity_Analysis.pdf){:target="_blank"}
+<div> 
+<div id="adobe-dc-view" style="width: 100%;"></div> 
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script> 
+<script type="text/javascript"> 
+document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+var adobeDCView = new AdobeDC.View({clientId: "a9f90938a3af4ae8b97f7768ee680c05", divId: "adobe-dc-view"});
+adobeDCView.previewFile({
+content:{location: {url: "https://aanandt.github.io/files/Ensemble_Methods_For_Enhanced_Covid-19_CT_Scan_Severity_Analysis.pdf"}},
+metaData:{fileName: "Ensemble_Methods_For_Enhanced_Covid-19_CT_Scan_Severity_Analysis.pdf"}
+}, {embedMode: "IN_LINE"});
+});
+</script>
+</div>
