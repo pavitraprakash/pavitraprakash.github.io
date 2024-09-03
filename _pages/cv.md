@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Bachelor's**  degree from Department of Computer Science and Engineering, **[College of Engineering Perumon](https://www.perumonec.ac.in/)**, **[Cochin University of Science and Technology](https://cusat.ac.in/)**, 2011
+* **Bachelor's**  degree from Department of Computer Science and Engineering, **[College of Engineering Perumon](https://www.perumonec.ac.in/)**, 2011
 * **Master's** degree from School of Computer and Information Sciences, **[Unversity of Hyderabad](https://scis.uohyd.ac.in/)**, 2016
 * **Doctorate** degree from Department of Computer Science and Engineering, **[Indian Institute of Technology Madras](https://www.iitm.ac.in)**, 2024 (expected) 
 
