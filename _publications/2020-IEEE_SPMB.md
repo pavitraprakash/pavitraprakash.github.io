@@ -10,3 +10,16 @@ citation: 'A. Thyagachandran, M. Kumar, M. Sur, R. Aghoram and H. Murthy, "Seizu
 ---
 
 [Download paper here](http://aanandt.github.io/files/Seizure_Detection_Using_Time_Delay_Neural_Networks_and_LSTMs.pdf){:target="_blank"}
+<div> 
+<div id="adobe-dc-view" style="width: 100%;"></div> 
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script> 
+<script type="text/javascript"> 
+document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+var adobeDCView = new AdobeDC.View({clientId: "4b6fe32f49a3484eb53941e96799646b", divId: "adobe-dc-view"});
+adobeDCView.previewFile({
+content:{location: {url: "https://aanandt.github.io/files/Seizure_Detection_Using_Time_Delay_Neural_Networks_and_LSTMs.pdf"}},
+metaData:{fileName: "Seizure_Detection_Using_Time_Delay_Neural_Networks_and_LSTMs.pdf"}
+}, {embedMode: "IN_LINE"});
+});
+</script>
+</div>
