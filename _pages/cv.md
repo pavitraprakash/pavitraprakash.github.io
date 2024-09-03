@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Computer Science and Engineering, CUSAT, 2011
-* M.Tech in Information Technology, Unversity of Hyderabad, 2016
-* Ph.D in Computer Science and Engineering, IIT Madras, 2024 (expected)
+* **Bachelor's**  degree from Department of Computer Science and Engineering, **[College of Engineering Perumon]([https://www.tce.edu](https://www.perumonec.ac.in/))**, 2011
+* **Master's** degree from school of Computer and Information Sciences, **[Unversity of Hyderabad](https://scis.uohyd.ac.in/)**, 2016
+* **Doctorate** degree from Department of Computer Science and Engineering, **[Indian Institute of Technology Madras](https://www.iitm.ac.in)**, 2024 (expected) 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* \[Dec 2019 - July 2024\] **Half-Time Teaching Assistant** @[Indian Institute of Technology Madras](https://www.iitm.ac.in)
+  * Alongside doctoral research, assisted professors at IIT Madras in offering various Graduate and Undergraduate level courses.
+  * <details> <summary>Click to see the full list of courses assisted!</summary><pre> Speech Technology (CS6300) [Jan 2021] <br> Pattern Recogntion and Machine Learning (CS5691) [Jan 2020, July 2023] <br> Advanced Programming Lab(CS6150) [July 2021, July 2022] <br> Programing and Data Structres (CS2700) [July 2020] <br> Programing and Data Structres (CS2700) [July 2020] <be> Discrete Mathematics (CS1200) [Jan 2020] <br> Introduction to Programming (CS1100) [Jan 2019] </pre></details>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* \[May 2016 - Dec 2018\] **Assistant Professor** @[VFSTR University](https://vignan.ac.in/newvignan/)
+  * University Teaching: Data Structures, Computer Graphics, and Discrete Mathematics.
   
 Skills
 ======
