@@ -6,7 +6,21 @@ excerpt: 'The COVID-19 pandemic, caused by the SARS-CoV-2 virus, continues to ha
 date: 2023-11-06
 venue: ' IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/10309131'
+pdf: 'https://aanandt.github.io/files/Identification_and_Severity_Assessment_of_COVID-19_Using_Lung_CT_Scans.pdf'
 citation: 'A. Thyagachandran, A. Balachandran and H. A. Murthy, "Identification and Severity Assessment of COVID-19 Using Lung CT Scans," in IEEE Access, vol. 11, pp. 124542-124555, 2023, doi: 10.1109/ACCESS.2023.3330238'
 ---
 
-[Download paper here](http://aanandt.github.io/files/Identification_and_Severity_Assessment_of_COVID-19_Using_Lung_CT_Scans.pdf){:target="_blank"}
+[Download paper here](https://aanandt.github.io/files/Identification_and_Severity_Assessment_of_COVID-19_Using_Lung_CT_Scans.pdf){:target="_blank"}
+<div> 
+<div id="adobe-dc-view" style="width: 100%;"></div> 
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script> 
+<script type="text/javascript"> 
+document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
+var adobeDCView = new AdobeDC.View({clientId: "a9f90938a3af4ae8b97f7768ee680c05", divId: "adobe-dc-view"});
+adobeDCView.previewFile({
+content:{location: {url: "https://aanandt.github.io/files/Identification_and_Severity_Assessment_of_COVID-19_Using_Lung_CT_Scans.pdf"}},
+metaData:{fileName: "Identification_and_Severity_Assessment_of_COVID-19_Using_Lung_CT_Scans.pdf"}
+}, {embedMode: "IN_LINE"});
+});
+</script>
+</div>
