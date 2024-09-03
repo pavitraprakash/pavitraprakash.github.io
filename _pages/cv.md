@@ -30,7 +30,7 @@ Skills
 * Deep Learning Tools: PyTorch, TensorFlow
 * Other Tools/Libraries: MATLAB, Git, Shell Script, Latex
 * Biomedical Data (Imaging and Signals) processing
-* Machine Learning 
+* Machine Learning and Pattern Recognition
 
 Publications
 ======
