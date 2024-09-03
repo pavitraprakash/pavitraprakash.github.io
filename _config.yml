@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anand Thyagachandran"
+title                    : "Anusha Prakash"
 title_separator          : "-"
-name                     : &name "Anand Thyagachandran"
+name                     : &name "Anusha Prakash"
 description              : &description "personal description"
-url                      : https://aanandt.github.io 
+url                      : https://anushaprakash90.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "aanandt/aanandt.github.io"
+repository               : "anushaprakash90/anushaprakash90.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  #name             : "Anand Thyagachandran"
+  name             : "Anusha Prakash"
   avatar           : "anand.jpeg"
-  bio              : "PhD Scholar @IIT Madras"
+  bio              : "PhD, IIT Madras"
   location         : "Chennai"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aanandt"
+  github           : "anushaprakash90"
   google_plus      :
   keybase          :
   instagram        :
