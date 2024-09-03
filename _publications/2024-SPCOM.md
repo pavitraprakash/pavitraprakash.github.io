@@ -6,7 +6,7 @@ excerpt: 'Music possesses the capacity to affect the human brain deeply, weaving
 date: 2020-12-05
 venue: ' International Conference on Signal Processing and Communications (SPCOM)'
 paperurl: '(https://ieeexplore.ieee.org/abstract/document/10631650)'
-pdf:'https://aanandt.github.io/files/EEG_Responses_for_Dhrupad_Stimulus_A_Case_Study.pdf'
+pdf: 'https://aanandt.github.io/files/EEG_Responses_for_Dhrupad_Stimulus_A_Case_Study.pdf'
 citation: 'A. Thyagachandran, G. R, S. Jaiswal, R. Aravind and H. A. Murthy, "EEG Responses for Dhrupad Stimulus: A Case Study," 2024 International Conference on Signal Processing and Communications (SPCOM), Bangalore, India, 2024, pp. 1-5, doi: 10.1109/SPCOM60851.2024.10631650.'
 ---
 
