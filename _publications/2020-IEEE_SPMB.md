@@ -6,10 +6,11 @@ excerpt: 'Automatic detection of seizures from EEG signals is an important probl
 date: 2020-12-05
 venue: ' IEEE Signal Processing in Medicine and Biology Symposium (SPMB)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9353636'
+pdf: 'https://aanandt.github.io/files/Seizure_Detection_Using_Time_Delay_Neural_Networks_and_LSTMs.pdf'
 citation: 'A. Thyagachandran, M. Kumar, M. Sur, R. Aghoram and H. Murthy, "Seizure Detection Using Time Delay Neural Networks and LSTMs," 2020 IEEE Signal Processing in Medicine and Biology Symposium (SPMB), Philadelphia, PA, USA, 2020, pp. 1-5, doi: 10.1109/SPMB50085.2020.9353636.'
 ---
 
-[Download paper here](http://aanandt.github.io/files/Seizure_Detection_Using_Time_Delay_Neural_Networks_and_LSTMs.pdf){:target="_blank"}
+[Download paper here](https://aanandt.github.io/files/Seizure_Detection_Using_Time_Delay_Neural_Networks_and_LSTMs.pdf){:target="_blank"}
 <div> 
 <div id="adobe-dc-view" style="width: 100%;"></div> 
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script> 
