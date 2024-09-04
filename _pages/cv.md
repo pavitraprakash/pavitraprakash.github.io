@@ -41,9 +41,7 @@ Skills
 * Programming Languages: C, C++, Python
 * Deep Learning Tools: PyTorch, TensorFlow
 * Other Tools/Libraries: MATLAB, Git, Shell Script, Latex
-* Biomedical Data (Imaging and Signals) processing, AI in Health Care
 * Pattern Recognition and Machine Learning
-* Cryptography, Cryptanalysis
 
 Publications
 ======
