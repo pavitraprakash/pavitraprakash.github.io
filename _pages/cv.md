@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* **Bachelor's**  degree from Department of Computer Science and Engineering, **[College of Engineering Perumon](https://www.perumonec.ac.in/)**, affiliated to **[Cochin University of Science and Technology](https://cusat.ac.in/)**, 2011
-* **Master's** degree from School of Computer and Information Sciences, **[Unversity of Hyderabad](https://scis.uohyd.ac.in/)**, 2016
-* **Doctorate** degree from Department of Computer Science and Engineering, **[Indian Institute of Technology Madras](https://www.iitm.ac.in)**, 2024 (expected) 
+* **Bachelor of Engineering (B.E.)**, Electrical and Electronics Engineering, **[RNS Institute of Technology, Bengaluru](https://www.rnsit.ac.in/)**, 2008 - 2012
+* **Master of Science (MS)** by Research, Cross-lingual Speech Synthesis and Enhancement of Dysarthric Speech, **[Indian Institute of Technology Madras](https://www.iitm.ac.in/)**, 2013 - 2016
+* **Doctor of Philosophy (PhD)**, Developing end-to-end text-to-speech synthesis systems for Indian languages, **[Indian Institute of Technology Madras](https://www.iitm.ac.in/)**, 2017 - 2024
 
 Work experience
 ======
