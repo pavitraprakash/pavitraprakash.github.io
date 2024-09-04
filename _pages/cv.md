@@ -22,10 +22,14 @@ Work experience
 * \[Jul 2017 - Jun 2022\] **Teaching Assistant** @ [Indian Institute of Technology Madras](https://www.iitm.ac.in)
   * Teaching Assistant for different courses (Speech Signal Processing (post-graduate level), Signals & Systems (under-graduate level), Digital Signal Processing (under-graduate and post-graduate levels)) in the Department of Electrical Engineering, including being Head TA (Jan - May 2019).
 * \[Apr 2020 - Jun 2022\] **Project Staff** (part-time) @ [Centre for Industrial Consultancy and Sponsored Research (ICSR), IIT Madras](https://icandsr.iitm.ac.in/)
-  * [Apr 2022 - Jun 2022] _Speech Technologies in Indian Languages (as part of Bhashini- National Language Translation Mission)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
-  * [Apr 2020 - Mar 2022] _Automatic Speech Recognition in Indian English, Tamil, Hindi, and Text to Speech Synthesis for conversational speech in Indian languages (as part of National Language Translation Mission Pilot)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
-  * [Apr 2020 - Mar 2022] _Speech to Speech Machine Translation_, funded by the Office of the Principal Scientific Adviser (PSA), Govt. of India.
-  * [Apr 2020 - Feb 2021] _Text to Speech Generation with chosen accent and noise profile for Aerospace and Industrial domains_, funded by the Department of Science and Technology (DST), Govt. of India.
+  * [Apr 2022 - Jun 2022] _Speech Technologies in Indian Languages_
+    * Part of Bhashini- National Language Translation Mission, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
+  * [Apr 2020 - Mar 2022] _Automatic Speech Recognition in Indian English, Tamil, Hindi, and Text to Speech Synthesis for conversational speech in Indian languages
+    * Part of National Language Translation Mission Pilot, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
+  * [Apr 2020 - Mar 2022] _Speech to Speech Machine Translation_
+    * Funded by the Office of the Principal Scientific Adviser (PSA), Govt. of India.
+  * [Apr 2020 - Feb 2021] _Text to Speech Generation with chosen accent and noise profile for Aerospace and Industrial domains_
+    * Funded by the Department of Science and Technology (DST), Govt. of India.
  <!-- * <details> <summary>Click to see the full list of projects assisted!</summary><pre> [Apr 2022 - Jun 2022] _Speech Technologies in Indian Languages (as part of Bhashini- National Language Translation Mission)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India. <br> [Apr 2020 - Mar 2022] _Automatic Speech Recognition in Indian English, Tamil, Hindi, and Text to Speech Synthesis for conversational speech in Indian languages (as part of National Language Translation Mission Pilot)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India. <br> [Apr 2020 - Mar 2022] _Speech to Speech Machine Translation_, funded by the Office of the Principal Scientific Adviser (PSA), Govt. of India. <br> [Apr 2020 - Feb 2021] _Text to Speech Generation with chosen accent and noise profile for Aerospace and Industrial domains_, funded by the Department of Science and Technology (DST), Govt. of India. </pre></details> -->
 
 Skills
