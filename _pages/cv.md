@@ -11,19 +11,18 @@ redirect_from:
 
 Education
 ======
-* **Bachelor of Engineering (B.E.)**, Electrical and Electronics Engineering, **[RNS Institute of Technology, Bengaluru](https://www.rnsit.ac.in/)**, 2008 - 2012
-* **Master of Science (MS)** by Research, Cross-lingual Speech Synthesis and Enhancement of Dysarthric Speech, **[Indian Institute of Technology Madras](https://www.iitm.ac.in/)**, 2013 - 2016
 * **Doctor of Philosophy (PhD)**, Developing end-to-end text-to-speech synthesis systems for Indian languages, **[Indian Institute of Technology Madras](https://www.iitm.ac.in/)**, 2017 - 2024
+* **Master of Science (MS)** by Research, Cross-lingual Speech Synthesis and Enhancement of Dysarthric Speech, **[Indian Institute of Technology Madras](https://www.iitm.ac.in/)**, 2013 - 2016
+* **Bachelor of Engineering (B.E.)**, Electrical and Electronics Engineering, **[RNS Institute of Technology, Bengaluru](https://www.rnsit.ac.in/)**, 2008 - 2012
 
 Work experience
 ======
-* \[Jan 2019 - July 2024\] **Half-Time Teaching Assistant** @[Indian Institute of Technology Madras](https://www.iitm.ac.in)
+* \[Jul 2022 - Mar 2023\] **Principal Project Officer** @ [Indian Institute of Technology Madras](https://www.iitm.ac.in)
+  * _Speech Technologies in Indian Languages (as part of Bhashini- National Language Translation Mission)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
+* \[Jul 2022 - Mar 2023\] **Half-Time Teaching Assistant** @ [Indian Institute of Technology Madras](https://www.iitm.ac.in)
   * Alongside doctoral research, assisted professors at IIT Madras in offering various Graduate and Undergraduate level courses.
   * <details> <summary>Click to see the full list of courses assisted!</summary><pre> Speech Technology (CS6300) [Jan 2021, Jan 2023] <br> Pattern Recogntion and Machine Learning (CS5691) [Jan 2022, July 2023] <br> Advanced Programming Lab(CS6150) [July 2021, July 2022] <br> Programing and Data Structres (CS2700) [July 2020] <br> Programing and Data Structres Lab (CS2710) [July 2020] <br> Discrete Mathematics (CS1200) [Jan 2020] <br> Artificial Intelligence (CS6380) [Jul 2019] <br> Introduction to Programming (CS1100) [Jan 2019] </pre></details>
 
-* \[May 2016 - Dec 2018\] **Assistant Professor** @[VFSTR University](https://vignan.ac.in/newvignan/)
-  * University Teaching: Data Structures, Computer Graphics, and Discrete Mathematics.
-  
 Skills
 ======
 * Programming Languages: C, C++, Python
