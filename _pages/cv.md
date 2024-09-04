@@ -17,11 +17,16 @@ Education
 
 Work experience
 ======
-* \[Jul 2022 - Mar 2023\] **Principal Project Officer** @ [Indian Institute of Technology Madras](https://www.iitm.ac.in)
+* \[Jul 2022 - Mar 2023\] **Principal Project Officer** @ [Centre for Industrial Consultancy and Sponsored Research (ICSR), IIT Madras](https://icandsr.iitm.ac.in/)
   * _Speech Technologies in Indian Languages (as part of Bhashini- National Language Translation Mission)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
-* \[Jul 2022 - Mar 2023\] **Half-Time Teaching Assistant** @ [Indian Institute of Technology Madras](https://www.iitm.ac.in)
-  * Alongside doctoral research, assisted professors at IIT Madras in offering various Graduate and Undergraduate level courses.
-  * <details> <summary>Click to see the full list of courses assisted!</summary><pre> Speech Technology (CS6300) [Jan 2021, Jan 2023] <br> Pattern Recogntion and Machine Learning (CS5691) [Jan 2022, July 2023] <br> Advanced Programming Lab(CS6150) [July 2021, July 2022] <br> Programing and Data Structres (CS2700) [July 2020] <br> Programing and Data Structres Lab (CS2710) [July 2020] <br> Discrete Mathematics (CS1200) [Jan 2020] <br> Artificial Intelligence (CS6380) [Jul 2019] <br> Introduction to Programming (CS1100) [Jan 2019] </pre></details>
+* \[Jul 2017 - Jun 2022\] **Teaching Assistant** @ [Indian Institute of Technology Madras](https://www.iitm.ac.in)
+  * Teaching Assistant for different courses (Speech Signal Processing (post-graduate level), Signals & Systems (under-graduate level), Digital Signal Processing (under-graduate and post-graduate levels)) in the Department of Electrical Engineering, including being Head TA (Jan - May 2019).
+* \[Apr 2020 - Jun 2022\] **Project Staff** (part-time) @ [Centre for Industrial Consultancy and Sponsored Research (ICSR), IIT Madras](https://icandsr.iitm.ac.in/)
+  * [Apr 2022 - Jun 2022] _Speech Technologies in Indian Languages (as part of Bhashini- National Language Translation Mission)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
+  * [Apr 2020 - Mar 2022] _Automatic Speech Recognition in Indian English, Tamil, Hindi, and Text to Speech Synthesis for conversational speech in Indian languages (as part of National Language Translation Mission Pilot)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
+  * [Apr 2020 - Mar 2022] _Speech to Speech Machine Translation_, funded by the Office of the Principal Scientific Adviser (PSA), Govt. of India.
+  * [Apr 2020 - Feb 2021] _Text to Speech Generation with chosen accent and noise profile for Aerospace and Industrial domains_, funded by the Department of Science and Technology (DST), Govt. of India.
+  * <details> <summary>Click to see the full list of projects assisted!</summary><pre> [Apr 2022 - Jun 2022] _Speech Technologies in Indian Languages (as part of Bhashini- National Language Translation Mission)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India. <br> [Apr 2020 - Mar 2022] _Automatic Speech Recognition in Indian English, Tamil, Hindi, and Text to Speech Synthesis for conversational speech in Indian languages (as part of National Language Translation Mission Pilot)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India. <br> [Apr 2020 - Mar 2022] _Speech to Speech Machine Translation_, funded by the Office of the Principal Scientific Adviser (PSA), Govt. of India. <br> [Apr 2020 - Feb 2021] _Text to Speech Generation with chosen accent and noise profile for Aerospace and Industrial domains_, funded by the Department of Science and Technology (DST), Govt. of India. </pre></details>
 
 Skills
 ======
