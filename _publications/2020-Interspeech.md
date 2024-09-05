@@ -7,7 +7,7 @@ date: 25-29 October 2020
 venue: 'Interspeech'
 paperurl: 'https://www.isca-archive.org/interspeech_2020/prakash20_interspeech.html'
 pdf: 'https://anushaprakash90.github.io/files/Interspeech_2020.pdf'
-citation: 'Anusha Prakash and Hema A. Murthy, "Generic Indic Text-to-Speech Synthesisers with Rapid Adaptation in an End-to-End Framework", in Proc. Interspeech, 2020, 2962-2966, doi: 10.21437/Interspeech.2020-2663.'
+citation: '_Anusha Prakash and Hema A. Murthy, "Generic Indic Text-to-Speech Synthesisers with Rapid Adaptation in an End-to-End Framework", in Proc. Interspeech, 2020, 2962-2966, doi: 10.21437/Interspeech.2020-2663._'
 ---
 
 [Download paper here](https://anushaprakash90.github.io/files/Interspeech_2020.pdf){:target="_blank"}
