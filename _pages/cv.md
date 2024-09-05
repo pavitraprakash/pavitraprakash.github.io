@@ -54,7 +54,7 @@ Publications
 
 Service and Achievements
 ======
-* Accepted to the \emph{ICASSP Rising Stars in Signal Processing Workshop}, 2023, and presented thesis work on "Developing End-to-End Speech Synthesis Systems for Indian Languages".
-* Accepted to the \emph{Doctoral Consortium Workshop, INTERSPEECH}, 2019, and presented work on "End-to-End Speech Synthesis for Indian Languages".
-* Received Gold Medal for the Highest Scorer of the batch 2008-2012 in the Electrical and Electronics Engineering department, RNS Institute of Technology, Bangalore, India.
+* Accepted to the **ICASSP Rising Stars in Signal Processing Workshop, 2023**, and presented thesis work on _"Developing End-to-End Speech Synthesis Systems for Indian Languages"_.
+* Accepted to the **Doctoral Consortium Workshop, INTERSPEECH, 2019**, and presented work on _"End-to-End Speech Synthesis for Indian Languages"_.
+* Received **Gold Medal for the Highest Scorer** of the batch 2008-2012 in the Electrical and Electronics Engineering department, RNS Institute of Technology, Bangalore, India.
   
