@@ -41,7 +41,7 @@ Skills
 * Programming Languages: C, C++, Python, Perl
 * Deep Learning Tools: PyTorch, Merlin, ESPNet
 * Other Tools/Libraries: MATLAB, LaTeX, Festival, HTS, HTK, Kaldi
-* Text-to-Speech (TTS) system development
+* Text-to-Speech (TTS) system development and deployment for 15 Indian languages
 * Speech singal processing
 * Deep learning models for speech
 
