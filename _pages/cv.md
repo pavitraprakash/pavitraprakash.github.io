@@ -38,10 +38,12 @@ Work experience
 
 Skills
 ======
-* Programming Languages: C, C++, Python
-* Deep Learning Tools: PyTorch, TensorFlow
-* Other Tools/Libraries: MATLAB, Git, Shell Script, Latex
-* Pattern Recognition and Machine Learning
+* Programming Languages: C, C++, Python, Perl
+* Deep Learning Tools: PyTorch, Merlin, ESPNet
+* Other Tools/Libraries: MATLAB, LaTeX, Festival, HTS, HTK, Kaldi
+* Text-to-Speech (TTS) system development
+* Speech singal processing
+* Deep learning models for speech
 
 Publications
 ======
@@ -52,13 +54,7 @@ Publications
 
 Service and Achievements
 ======
-* Served as reviewer for Biomedical Signal Processing and Control journal.
-* Achieved one-year **Doctoral Fellow** scholarship grant from IITM Pravartak Technologies Foundation. 
-* Organised **An Introduction to Neuroscience and EEG Processing (EEG Workshop)**, Jan 08-10, 2024, IIT Madras, India.
-* Organised **Introduction to Computational Musicology, a Carnatic Music perspective (CompMusic workshop)**, Dec 12-16,2022, IIT Madras, India.
-* STAR TA award for outstanding contribution as a Teaching assistant.
-* Led a digital payment awareness campaign in Guntur as NSS Coordinator at VFSTR University, 2017.
-* Participated in the South Zone (India) inter-university badminton championship 2014-2016.
-* Participated in the south zone (Kerala) badminton championship in 2003-2007.
-* Served as sports secretary in undergraduate college.
+* Accepted to the \emph{ICASSP Rising Stars in Signal Processing Workshop}, 2023, and presented thesis work on "Developing End-to-End Speech Synthesis Systems for Indian Languages".
+* Accepted to the \emph{Doctoral Consortium Workshop, INTERSPEECH}, 2019, and presented work on "End-to-End Speech Synthesis for Indian Languages".
+* Received Gold Medal for the Highest Scorer of the batch 2008-2012 in the Electrical and Electronics Engineering department, RNS Institute of Technology, Bangalore, India.
   
