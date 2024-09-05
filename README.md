@@ -8,14 +8,12 @@ Anusha has been involved in various government-funded projects. Most recently, s
 ## Webpage
 [anushaprakash90.github.io](https://anushaprakash90.github.io/)
 
-Education
-======
+## Education
 * **Doctor of Philosophy (PhD)**, Developing end-to-end text-to-speech synthesis systems for Indian languages, **[Indian Institute of Technology Madras](https://www.iitm.ac.in/)**, 2017 - 2024
 * **Master of Science (MS)** by Research, Cross-lingual Speech Synthesis and Enhancement of Dysarthric Speech, **[Indian Institute of Technology Madras](https://www.iitm.ac.in/)**, 2013 - 2016
 * **Bachelor of Engineering (B.E.)**, Electrical and Electronics Engineering, **[RNS Institute of Technology, Bengaluru](https://www.rnsit.ac.in/)**, 2008 - 2012
 
-Work experience
-======
+## Work experience
 * **Principal Project Officer** @ [ICSR, IIT Madras](https://icandsr.iitm.ac.in/) - [Jul 2022 - Mar 2023] 
   * _Speech Technologies in Indian Languages (as part of Bhashini- National Language Translation Mission)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
 * **Teaching Assistant** @ [Indian Institute of Technology Madras](https://www.iitm.ac.in) - [Jul 2017 - Jun 2022]
@@ -35,8 +33,7 @@ Work experience
 * **Project Officer** @ [ICSR, IIT Madras](https://icandsr.iitm.ac.in/) - [Jul 2012 - Mat 2014]
   * _Development of Text to Speech systems for Indian languages_, funded by the Department of Information Technology, Govt. of India
 
-Skills
-======
+## Skills
 * Programming Languages: C, C++, Python, Perl
 * Deep Learning Tools: PyTorch, Merlin, ESPNet
 * Other Tools/Libraries: MATLAB, LaTeX, Festival, HTS, HTK, Kaldi
@@ -44,15 +41,7 @@ Skills
 * Speech singal processing
 * Deep learning models for speech
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-Service and Achievements
-======
+## Service and Achievements
 * Accepted to the **ICASSP Rising Stars in Signal Processing Workshop, 2023**, and presented thesis work on _"Developing End-to-End Speech Synthesis Systems for Indian Languages"_.
 * Accepted to the **Doctoral Consortium Workshop, INTERSPEECH, 2019**, and presented work on _"End-to-End Speech Synthesis for Indian Languages"_.
 * Received **Gold Medal for the Highest Scorer** of the batch 2008-2012 in the Electrical and Electronics Engineering department, RNS Institute of Technology, Bangalore, India.
