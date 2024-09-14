@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anusha Prakash"
+title                    : "Pavitra Prakash"
 title_separator          : "-"
-name                     : &name "Anusha Prakash"
+name                     : &name "Pavitra Prakash"
 description              : &description "personal description"
-url                      : https://anushaprakash90.github.io 
+url                      : https://pavitraprakash.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anushaprakash90/anushaprakash90.github.io"
+repository               : "pavitraprakash/pavitraprakash.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anusha Prakash"
+  name             : "Pavitra Prakash"
   avatar           : "anusha_linkedin.jpeg"
-  bio              : "PhD @ IIT Madras"
-  location         : "Bangalore"
+  bio              : "PhD | Life Sciences | Research Communication"
+  location         : "Ropar, Punjab"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=2r9mCcgAAAAJ&hl=en"
+  # googlescholar    : "https://scholar.google.com/citations?user=2r9mCcgAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Anusha-Prakash-7"
+  # researchgate     :  "https://www.researchgate.net/profile/Anusha-Prakash-7"
   # researchgate     :  "https://www.researchgate.net/profile/Anusha-Prakash-5"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "anushaprakash90"
+  # github           : "anushaprakash90"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "anushaprakash90"
+  linkedin         : "pavitra-prakash-721166283"
   # orcid            : "https://orcid.org/0000-0002-3676-1640"
   pinterest        :
   soundcloud       :
