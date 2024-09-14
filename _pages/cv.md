@@ -17,24 +17,17 @@ Education
 
 Work experience
 ======
-* **Principal Project Officer** @ [ICSR, IIT Madras](https://icandsr.iitm.ac.in/) - [Jul 2022 - Mar 2023] 
-  * _Speech Technologies in Indian Languages (as part of Bhashini- National Language Translation Mission)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
-* **Teaching Assistant** @ [Indian Institute of Technology Madras](https://www.iitm.ac.in) - [Jul 2017 - Jun 2022]
-  * Teaching Assistant for different courses (Speech Signal Processing (post-graduate level), Signals & Systems (under-graduate level), Digital Signal Processing (under-graduate and post-graduate levels)) in the Department of Electrical Engineering, including being Head TA (Jan - May 2019).
-* **Project Staff** (part-time) @ [ICSR, IIT Madras](https://icandsr.iitm.ac.in/) - [Apr 2020 - Jun 2022]
-  * _Speech Technologies in Indian Languages_ - [Apr 2022 - Jun 2022]
-    * As part of Bhashini- National Language Translation Mission, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
-  * _Automatic Speech Recognition in Indian English, Tamil, Hindi, and Text to Speech Synthesis for conversational speech in Indian languages_ - [Apr 2020 - Mar 2022]
-    * As part of National Language Translation Mission Pilot, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India.
-  * _Speech to Speech Machine Translation_ - [Apr 2020 - Mar 2022]
-    * Funded by the Office of the Principal Scientific Adviser (PSA), Govt. of India.
-  * _Text to Speech Generation with chosen accent and noise profile for Aerospace and Industrial domains_ - [Apr 2020 - Feb 2021]
-    * Funded by the Department of Science and Technology (DST), Govt. of India.
- <!-- * <details> <summary>Click to see the full list of projects assisted!</summary><pre> [Apr 2022 - Jun 2022] _Speech Technologies in Indian Languages (as part of Bhashini- National Language Translation Mission)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India. <br> [Apr 2020 - Mar 2022] _Automatic Speech Recognition in Indian English, Tamil, Hindi, and Text to Speech Synthesis for conversational speech in Indian languages (as part of National Language Translation Mission Pilot)_, funded by the Ministry of Electronic & Information Technology (Meity), Govt. of India. <br> [Apr 2020 - Mar 2022] _Speech to Speech Machine Translation_, funded by the Office of the Principal Scientific Adviser (PSA), Govt. of India. <br> [Apr 2020 - Feb 2021] _Text to Speech Generation with chosen accent and noise profile for Aerospace and Industrial domains_, funded by the Department of Science and Technology (DST), Govt. of India. </pre></details> -->
-* **Project Officer** @ [ICSR, IIT Madras](https://icandsr.iitm.ac.in/) - [Jun 2014 - Jun 2017]
-  * _Development of Text to Speech systems for Indian languages_, funded by the Department of Information Technology, Govt. of India
-* **Project Officer** @ [ICSR, IIT Madras](https://icandsr.iitm.ac.in/) - [Jul 2012 - Mat 2014]
-  * _Development of Text to Speech systems for Indian languages_, funded by the Department of Information Technology, Govt. of India
+* **Researcher Associate** @ [IrisARC-Analytics, Research & Consulting, Chandigarh](https://iris-arc.com/) - [Feb 2024 – June 2024] 
+  * Conducted medical literature reviews and drafted scientific communications in the field of ophthalmology.
+  * Worked on multiple parallel projects within a strict time frame.
+  * Collaborated with clients and team members to create presentations, abstracts, and posters for academic and medical audiences.
+* **Life Science Researcher (Doctoral Level)** @ [Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bengaluru](https://www.jncasr.ac.in/) - [Aug 2009 – Oct 2023]
+  * Led experimental research on altering circadian dysfunction in neurodegenerative diseases, wrote and published two first-author research articles in international journals.
+  * Proactively managed laboratory operations, organised team meetings, and mentored students.
+  * Shared research findings through presentations and posters at international conferences, enhancing public engagement in science.
+* **Project Officer** @ [Indian Institute of Technology Madras](https://www.iitm.ac.in) - [Mar 2021 – June 2021]
+  * Edited and corrected subject-matter-translated texts of NPTEL lectures as part of a MeitY (Ministry of Electronics and Information Technology) project.
+  * Planned and executed content- and copy-editing projects under tight deadlines.
 
 Skills
 ======
