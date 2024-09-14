@@ -7,13 +7,11 @@
 Pavitra believes in making knowledge accessible by helping researchers tell compelling stories. With a PhD in Life Sciences and experience as a project manager and medical writer, she has developed strong research, analytical, and communication skills. She is passionate about managing, leading, and mentoring. Her organizational and interpersonal skills have helped her team achieve creative and fulfilling outcomes. Resilient and enterprising, she is attentive to detail and an effective problem-solver. By reflecting and learning, she aims to make a difference with words and actions.
 
 ## Education
-======
 * **Doctor of Philosophy (PhD)**, Life Science, **[Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bengaluru](https://www.jncasr.ac.in/)**, 2009 - 2023
 * **Master of Science (MSc)**, Biochemistry, **[Maharaja Sayajirao University (MSU) of Baroda, Vadodara](https://msubaroda.ac.in/)**, 2007 - 2009
 * **Bachelor of Science (BSc)**, Biochemistry, **[Sri Venkateswara College, University of Delhi, New Delhi](https://www.svc.ac.in/)**, 2005 - 2007
 
 ## Work experience
-======
 * **Researcher Associate** @ [IrisARC-Analytics, Research & Consulting, Chandigarh](https://iris-arc.com/) - [Feb 2024 – June 2024] 
   * Conducted medical literature reviews and drafted scientific communications in the field of ophthalmology.
   * Worked on multiple parallel projects within a strict time frame.
