@@ -24,15 +24,18 @@ Pavitra believes in making knowledge accessible by helping researchers tell comp
   * Edited and corrected subject-matter-translated texts of NPTEL lectures as part of a MeitY (Ministry of Electronics and Information Technology) project.
   * Planned and executed content- and copy-editing projects under tight deadlines.
 
-## Skills
-* Programming Languages: C, C++, Python, Perl
-* Deep Learning Tools: PyTorch, Merlin, ESPNet
-* Other Tools/Libraries: MATLAB, LaTeX, Festival, HTS, HTK, Kaldi
-* Text-to-Speech (TTS) system development and deployment for 15 Indian languages
-* Speech singal processing
-* Deep learning models for speech
+## Skills & Abilities
+* **Research & Writing**: Literature Review, Data Analysis and Interpretation, Scientific Writing and Editing, Peer Review
+* **Project Management**: Detailed Planning, Delegation, Task Prioritization and Execution, Team Collaboration
+* **Leadership & Mentoring**: Taught and guided research interns and project fellows
+* **Organisation and Outreach**: Proactively assisted in organising conferences, seminars, symposia, and science outreach programs such as open science events and student-buddy programs
+* **Science Communication**: Proficient in communicating complex ideas to both academic and non-academic audiences across different mediums
+* **Technical Tools**: Microsoft Office Suite, Reference Management Tools, Graphing Software, Biostatistics, Adobe InDesign, ImageJ, Confocal Microscopy
+* **Languages**: Professional proficiency in English and Hindi, conversational in Kannada, Tamil, and Malayalam
+* **Soft Skills**: Problem Solving, Adaptability, Teamwork, Emotional and Social Intelligence
 
-## Service and Achievements
-* Accepted to the **ICASSP Rising Stars in Signal Processing Workshop, 2023**, and presented thesis work on _"Developing End-to-End Speech Synthesis Systems for Indian Languages"_.
-* Accepted to the **Doctoral Consortium Workshop, INTERSPEECH, 2019**, and presented work on _"End-to-End Speech Synthesis for Indian Languages"_.
-* Received **Gold Medal for the Highest Scorer** of the batch 2008-2012 in the Electrical and Electronics Engineering department, RNS Institute of Technology, Bangalore, India.
+## Awards & Fellowships
+* Best Poster Award, JNCASR In-house Symposium, 2011
+* Gold Medals for M.Sc in Biochemistry (Drs C. S. Patel and Dharmishta. V. Shah), MSU Baroda, 2010
+* JRF (Junior Research Fellowship) in Life Sciences, Council of Scientific and Industrial Research (CSIR), 2009
+* Summer Research Fellowship, Indian Academy of Sciences (IASc), 2006
