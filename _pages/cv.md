@@ -29,14 +29,16 @@ Work experience
   * Edited and corrected subject-matter-translated texts of NPTEL lectures as part of a MeitY (Ministry of Electronics and Information Technology) project.
   * Planned and executed content- and copy-editing projects under tight deadlines.
 
-Skills
+Skills & Abilities
 ======
-* Programming Languages: C, C++, Python, Perl
-* Deep Learning Tools: PyTorch, Merlin, ESPNet
-* Other Tools/Libraries: MATLAB, LaTeX, Festival, HTS, HTK, Kaldi
-* Text-to-Speech (TTS) system development and deployment for 15 Indian languages
-* Speech singal processing
-* Deep learning models for speech
+* **Research & Writing**: Literature Review, Data Analysis and Interpretation, Scientific Writing and Editing, Peer Review
+* **Project Management**: Detailed Planning, Delegation, Task Prioritization and Execution, Team Collaboration
+* **Leadership & Mentoring**: Taught and guided research interns and project fellows
+* **Organisation and Outreach**: Proactively assisted in organising conferences, seminars, symposia, and science outreach programs such as open science events and student-buddy programs
+* **Science Communication**: Proficient in communicating complex ideas to both academic and non-academic audiences across different mediums
+* **Technical Tools**: Microsoft Office Suite, Reference Management Tools, Graphing Software, Biostatistics, Adobe InDesign, ImageJ, Confocal Microscopy
+* **Languages**: Professional proficiency in English and Hindi, conversational in Kannada, Tamil, and Malayalam
+* **Soft Skills**: Problem Solving, Adaptability, Teamwork, Emotional and Social Intelligence
 
 Publications
 ======
