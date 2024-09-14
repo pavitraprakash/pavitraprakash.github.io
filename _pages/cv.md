@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* **Doctor of Philosophy (PhD)**, Developing end-to-end text-to-speech synthesis systems for Indian languages, **[Indian Institute of Technology Madras](https://www.iitm.ac.in/)**, 2017 - 2024
-* **Master of Science (MS)** by Research, Cross-lingual Speech Synthesis and Enhancement of Dysarthric Speech, **[Indian Institute of Technology Madras](https://www.iitm.ac.in/)**, 2013 - 2016
-* **Bachelor of Engineering (B.E.)**, Electrical and Electronics Engineering, **[RNS Institute of Technology, Bengaluru](https://www.rnsit.ac.in/)**, 2008 - 2012
+* **Doctor of Philosophy (PhD)**, Life Science, **[Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bengaluru](https://www.jncasr.ac.in/)**, 2009 - 2023
+* **Master of Science (MSc)**, Biochemistry, **[Maharaja Sayajirao University (MSU) of Baroda, Vadodara](https://msubaroda.ac.in/)**, 2007 - 2009
+* **Bachelor of Science (BSc)**, Biochemistry, **[Sri Venkateswara College, University of Delhi, New Delhi](https://www.svc.ac.in/)**, 2005 - 2007
 
 Work experience
 ======
