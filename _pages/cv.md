@@ -47,9 +47,9 @@ Publications
   {% endfor %}</ul>
   
 
-Service and Achievements
+Awards & Fellowships
 ======
-* Accepted to the **ICASSP Rising Stars in Signal Processing Workshop, 2023**, and presented thesis work on _"Developing End-to-End Speech Synthesis Systems for Indian Languages"_.
-* Accepted to the **Doctoral Consortium Workshop, INTERSPEECH, 2019**, and presented work on _"End-to-End Speech Synthesis for Indian Languages"_.
-* Received **Gold Medal for the Highest Scorer** of the batch 2008-2012 in the Electrical and Electronics Engineering department, RNS Institute of Technology, Bangalore, India.
-  
+* Best Poster Award, JNCASR In-house Symposium, 2011
+* Gold Medals for M.Sc in Biochemistry (Drs C. S. Patel and Dharmishta. V. Shah), MSU Baroda, 2010
+* JRF (Junior Research Fellowship) in Life Sciences, Council of Scientific and Industrial Research (CSIR), 2009
+* Summer Research Fellowship, Indian Academy of Sciences (IASc), 2006
