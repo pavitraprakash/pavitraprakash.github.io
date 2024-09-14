@@ -11,16 +11,4 @@ citation: 'Anusha Prakash and Hema A. Murthy, "Exploring the Role of Language Fa
 ---
 
 [Download paper here](https://anushaprakash90.github.io/files/TASLP_2022.pdf){:target="_blank"}
-<div> 
-<div id="adobe-dc-view" style="width: 100%;"></div> 
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script> 
-<script type="text/javascript"> 
-document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-var adobeDCView = new AdobeDC.View({clientId: "8e749eed332f491a857dcc87f35bf2da", divId: "adobe-dc-view"});
-adobeDCView.previewFile({
-content:{location: {url: "https://anushaprakash90.github.io/files/TASLP_2022.pdf"}},
-metaData:{fileName: "TASLP_2022.pdf"}
-}, {embedMode: "IN_LINE"});
-});
-</script>
-</div>
+
