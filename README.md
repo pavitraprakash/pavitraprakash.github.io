@@ -1,7 +1,7 @@
-# Anusha Prakash
+# Pavitra Prakash
 
 ## Webpage
-[anushaprakash90.github.io](https://anushaprakash90.github.io/)
+[pavitraprakash.github.io](https://pavitraprakash.github.io/)
 
 ## About
 Anusha Prakash recently graduated as a PhD Scholar from the Electrical Engineering department at the Indian Institute of Technology (IIT) Madras, India. Her research focused on developing high-quality text-to-speech (TTS) synthesizers for Indian languages, with a particular emphasis on low-resource languages in a multilingual context. She has extensive experience working with various TTS frameworks, ranging from traditional techniques like unit selection synthesis, HMM-based methods, and conventional neural networks to state-of-the-art end-to-end speech synthesizers. Her work integrates linguistic knowledge and signal processing techniques with deep learning methods to enhance synthesis quality and intelligibility. Additionally, she has contributed to improving the quality of dysarthric speech.
